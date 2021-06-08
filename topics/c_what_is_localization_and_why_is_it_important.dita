@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_localization_and_why_is_it_important">
+    <title>What is localization and why is it important?</title>
+    <shortdesc> Explanation of what location is.</shortdesc>
+    <conbody>
+        <p>According to the <xref
+                href="https://www.gala-global.org/industry/intro-language-industry/what-localization"
+                format="html" scope="external">Globalization and Localization Association</xref>
+            (GALA), localization is the whole process of adapting a product or content for the
+            target region, location, or market.</p>
+        <p>Usually, localization is regarded only as a synonym for translation of the user interface
+            and documentation, but it's often a substantially more complex issue. Localization also
+            involves adapting other elements to a target market, including:</p>
+        <ul id="ul_jy1_bk1_vpb">
+            <li>Addressing local regulations and legal requirements</li>
+            <li>Using proper formatting for details like dates, addresses, phone numbers, etc.</li>
+            <li>Converting to local currencies and measurement units</li>
+            <li>Changing content according to preferences</li>
+            <li>Modifying graphics, design, symbols, icons, and colors to display translated text
+                correctly. It should also be noted whether these elements in a given culture will
+                not be misinterpreted and considered inappropriate</li>
+        </ul>
+        <p>In other words, localization gives the product, documentation, or service the look and
+            feel expected by the target audience.</p>
+    </conbody>
+</concept>

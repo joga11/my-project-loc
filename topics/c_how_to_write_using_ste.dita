@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_to_write_using_ste">
+    <title>How to write using STE?</title>
+    <shortdesc> Rules of STE</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_bpz_vz1_vpb">
+                <li>BASIC RULE: "one word – one meaning." It means the elimination of synonyms,
+                    i.e., using only one allowed word for a particular meaning. E.g., using "to
+                    fall" we mean "to move down by the force of gravity" and not "to decrease."</li>
+                <li>In the case of English dialects, American is preferred.</li>
+                <li>Limit to the most precise forms and eliminate forms difficult to
+                    understand.</li>
+                <li>Split any long clusters of nouns into smaller logical units (no more than three
+                    words).</li>
+                <li> Use active voice, not passive.</li>
+                <li>Express actions with verbs and not by nouns.</li>
+                <li>The sentences should not be too long, 20 to 25 words per sentence. Also,
+                    sections should not be too long, up to 6 sentences in a section.</li>
+                <li>Warnings and caution notes must be properly marked as such. At the very
+                    beginning, indicate the actions to be taken. Descriptions of the danger should
+                    be placed later.</li>
+                <li>Separately indicate advisory notes and explaining details, and they should
+                    contain no commands.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

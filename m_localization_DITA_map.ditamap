@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to prepare technical documentation files for localization using CAT software?</title>
+    <topicmeta>
+        <author>Joanna Gajewska</author>
+        <prodinfo>
+            <prodname>Localization Manual</prodname>
+        </prodinfo>
+    </topicmeta>
+    <topicref href="topics/c_what_is_localization_and_why_is_it_important.dita">
+        <topicref href="topics/c_what_is_the_purpose_of_localization.dita"/>
+        <topicref
+            href="topics/c_what_is_internationalization_and_how_is_it_different_from_localization.dita"/>
+        <topicref href="topics/c_what_is_translation_and_how_is_it_different_from_localization.dita"
+        />
+    </topicref>
+    <topicref href="topics/c_how_should_technical_documentation_be_created_for_localization.dita">
+        <topicref href="topics/c_what_should_be_translated_and_how_should_it_be_done.dita"/>
+        <topicref href="topics/c_should_the_drawing_text_also_be_translated_and_localized.dita"/>
+    </topicref>
+    <topicref href="topics/c_what_should_be_the_formats_for_creating_documentation.dita">
+        <topicref href="topics/c_what_are_the_best_formats_for_creating_documentation.dita"/>
+        <topicref href="topics/C_what_other_formats_can_be_used_to_create_documentation.dita"/>
+        <topicref href="topics/c_what_formats_should_not_be_used_for_localization.dita"/>
+    </topicref>
+    <topicref href="topics/c_what_is_simplified_technical_english_ste.dita">
+        <topicref href="topics/c_how_does_ste_work.dita"/>
+        <topicref href="topics/c_how_to_write_using_ste.dita"/>
+    </topicref>
+    <topicref href="topics/c_what_is_cat_software_and_what_is_it_used_for.dita">
+        <topicref href="topics/c_how_does_cat_work.dita"/>
+        <topicref href="topics/c_what_cat_software_may_be_used_for_localization.dita">
+            <topicref href="topics/t_example_how_to_localize_file_using_trados.dita"/>
+            <topicref href="topics/t_example_how_to_localize_file_using_memoq.dita"/>
+            <topicref href="topics/t_example_how_to_localize_file_using_DejaVuX3.dita"/>
+        </topicref>
+    </topicref>
+    <reltable title="Doc file and CAT">
+        <relrow>
+            <relcell>
+                <topicref
+                    href="topics/c_how_should_technical_documentation_be_created_for_localization.dita"
+                />
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_how_does_cat_work.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

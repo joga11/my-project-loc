@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_what_is_localization_and_why_is_it_important"
+               path="topics/c_what_is_localization_and_why_is_it_important.html"/>
+   <appContext helpID="c_what_is_the_purpose_of_localization"
+               path="topics/c_what_is_the_purpose_of_localization.html"/>
+   <appContext helpID="c_what_is_internationalization_and_how_is_it_different_from_localization"
+               path="topics/c_what_is_internationalization_and_how_is_it_different_from_localization.html"/>
+   <appContext helpID="c_what_is_translation_and_how_is_it_different_from_localization"
+               path="topics/c_what_is_translation_and_how_is_it_different_from_localization.html"/>
+   <appContext helpID="c_how_should_technical_documentation_be_created_for_localization"
+               path="topics/c_how_should_technical_documentation_be_created_for_localization.html"/>
+   <appContext helpID="c_what_should_be_translated_and_how_should_it_be_done"
+               path="topics/c_what_should_be_translated_and_how_should_it_be_done.html"/>
+   <appContext helpID="c_should_the_drawing_text_also_be_translated_and_localized"
+               path="topics/c_should_the_drawing_text_also_be_translated_and_localized.html"/>
+   <appContext helpID="c_what_should_be_the_formats_for_creating_documentation"
+               path="topics/c_what_should_be_the_formats_for_creating_documentation.html"/>
+   <appContext helpID="c_what_are_the_best_formats_for_creating_documentation"
+               path="topics/c_what_are_the_best_formats_for_creating_documentation.html"/>
+   <appContext helpID="C_what_other_formats_can_be_used_to_create_documentation"
+               path="topics/C_what_other_formats_can_be_used_to_create_documentation.html"/>
+   <appContext helpID="c_what_formats_should_not_be_used_for_documentation"
+               path="topics/c_what_formats_should_not_be_used_for_localization.html"/>
+   <appContext helpID="c_what_is_simplified_technical_english_ste"
+               path="topics/c_what_is_simplified_technical_english_ste.html"/>
+   <appContext helpID="c_how_does_ste_work" path="topics/c_how_does_ste_work.html"/>
+   <appContext helpID="c_how_to_write_using_ste"
+               path="topics/c_how_to_write_using_ste.html"/>
+   <appContext helpID="c_what_is_cat_software_and_what_is_it_used_for"
+               path="topics/c_what_is_cat_software_and_what_is_it_used_for.html"/>
+   <appContext helpID="c_how_does_cat_work" path="topics/c_how_does_cat_work.html"/>
+   <appContext helpID="c_what_may_cat_software_be_used_for_localization"
+               path="topics/c_what_cat_software_may_be_used_for_localization.html"/>
+   <appContext helpID="t_example_how_to_localize_file_using_trados"
+               path="topics/t_example_how_to_localize_file_using_trados.html"/>
+   <appContext helpID="t_example_how_to_localize_file_using_memoq"
+               path="topics/t_example_how_to_localize_file_using_memoq.html"/>
+   <appContext helpID="t_example_how_to_localize_file_using_cat_software"
+               path="topics/t_example_how_to_localize_file_using_DejaVuX3.html"/>
+   <appContext helpID="c_how_should_technical_documentation_be_created_for_localization"
+               path="topics/c_how_should_technical_documentation_be_created_for_localization.html"/>
+   <appContext helpID="c_how_does_cat_work" path="topics/c_how_does_cat_work.html"/>
+</map>

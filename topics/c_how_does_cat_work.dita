@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_does_cat_work">
+    <title>How does CAT work?</title>
+    <shortdesc> About CAT concept</shortdesc>
+    <conbody>
+        <p>First, CAT tool breaks the source text into translation units or segments (TUs). Usually,
+            TUs correspond to sentences or similar wholes. Then, the tool creates a translation
+            memory (TM) for storing the source and translated segments. The CAT search engine allows
+            the translator to view saved segments, search for segments with similar content, and
+            translate them.</p>
+        <p>With the help of termbases, glossaries, and translation memories, the CAT tool helps the
+            translator ensure the terminology and writing style of the source file are translated
+            accurately and as intended.</p>
+        <p>Depending on available options, CAT tools include such features like autosuggest, quality
+            assurance, side-by-side alignment, optionally feature of the Machine Translation
+            service, and much more. Use a spell checker, manage terms, use specific dictionaries,
+            term databases, text indexers, merge the translation and the source text, manage
+            projects, translation memories, and automate translation work in general.</p>
+    </conbody>
+</concept>

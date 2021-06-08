@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_what_other_formats_can_be_used_to_create_documentation">
+    <title>What other formats can be used to create documentation?</title>
+    <shortdesc> InDesign, HTML, XML as formats for creating documentation.</shortdesc>
+    <conbody>
+        <p><fig id="fig_vgh_gv1_vpb">
+                <title>InDesign logo</title>
+                <image placement="break" href="images/Adobe-InDesign.jpg" width="3cm" align="left"
+                    id="image_wgh_gv1_vpb">
+                    <alt>InDesign logo</alt>
+                </image>
+            </fig><b>Adobe InDesign</b> is a desktop software application for publishing and
+            typesetting. InDesig allows you to create works such as posters, flyers, brochures,
+            magazines, newspapers, presentations, books, and ebooks. InDesign supports XML, style
+            sheets, and other coding markups, making it suitable for exporting tagged text content
+            for use in other digital and online formats.</p>
+        <p><fig id="fig_z1d_jv1_vpb">
+                <title>HTML logo</title>
+                <image placement="break" href="images/1200px-HTML5_logo_and_wordmark.svg.png"
+                    width="3cm" align="left" id="image_abd_jv1_vpb">
+                    <alt>HTML logo</alt>
+                </image>
+            </fig><b>HTML</b> is a markup language and it's the standard for the Internet and many
+            applications. It's a text format and can be modified. You can extend the documentation
+            to any size. Other input and output formats can be generated, but not all. It's only
+            partially possible to separate visual issues from the content and HTML can look
+            different in different browsers and environments.</p>
+        <p><fig id="fig_esh_lv1_vpb">
+                <title>XML logo</title>
+                <image placement="break" href="images/indeks.png" width="3cm" align="left"
+                    id="image_fsh_lv1_vpb">
+                    <alt>XML logo</alt>
+                </image>
+            </fig><b>XML</b> also is a markup language and defines a set of rules for encoding
+            documents in a human-readable and machine-readable format. The design goals of XML
+            emphasize simplicity, generality, and usability across the Internet. It's a textual data
+            format with strong support via Unicode for different human languages. XML design focuses
+            on documents but the language is widely used to represent arbitrary data structures such
+            as those used in web services.</p>
+        <p><fig id="fig_t4d_42n_wpb">
+                <title>Logo Word and Excel</title>
+                <image placement="break" href="images/logo-word-excel.jpg" width="3cm" align="left"
+                    id="image_u4d_42n_wpb">
+                    <alt>Logo Word and Excel</alt>
+                </image>
+            </fig><b>Word and Excel by Microsoft</b> are sometimes used for documentation purposes
+            because they are widely available and familiar formats. However, they have their
+            limitations and should not be the "formats of choice" for more extensive documentation
+            or for localization. On the other hand, they work well for providing documentation.</p>
+        <p><b>Word</b> allows simple formatting and you can generate other input and output formats.
+            You can modify the .docx file or extract the content. However, the format is not
+            suitable for large documents. It's challenging to manage a large number of documents and
+            reuse content. It's hard to separate visual issues from the content. Collaboration
+            between authors and other content consumers is difficult.</p>
+        <p><b>Excel</b> is a spreadsheet developed by Microsoft for Windows, macOS, Android, and
+            iOS. Excel has sometimes been used to create documentation (e.g., parts lists,
+            checklists), but it has limitations. The content is difficult to manage and
+            localize.</p>
+    </conbody>
+</concept>

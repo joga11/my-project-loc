@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_example_how_to_localize_file_using_cat_software">
+    <title>Example: how to localize file using Déjà Vu X3?</title>
+    <shortdesc> Example: documentation files prepared using <b>MadCap Flare (.htm)</b> and localized
+        using <b>Déjà Vu X3</b>.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To localize the documentation files, create a project in Déjà Vu X3.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Déjà Vu X3.</cmd>
+            </step>
+            <step>
+                <cmd>On the Déjà Vu X3 start screen, in the section labelled <i>New</i>, click
+                        on<b>Translation Project</b> and next <b>Project:</b><image
+                        placement="break" href="images/madcap_screens/1.png" scale="60" align="left"
+                        id="image_uh4_jpf_vpb">
+                        <alt>new_transl_project_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd><b>New Project Wizard</b> appears. Specify where do you want to store your new
+                        project.<image placement="break" href="images/madcap_screens/2.png"
+                        scale="60" align="left" id="image_vc2_npf_vpb">
+                        <alt>location_of_new_project DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Next</b>. On the next page, select the source language and the target
+                    language(s) for your project and click <b>Next</b>.<image placement="break"
+                        href="images/madcap_screens/3.png" scale="60" align="left"
+                        id="image_vrd_qpf_vpb">
+                        <alt>language_settings_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Choose to use an existing translation memory (or create a new one) and click
+                        <b>Next</b>.<image placement="break" href="images/madcap_screens/4.png"
+                        scale="60" align="left" id="image_sn4_tpf_vpb">
+                        <alt>project_TM_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Select or create the Termbase for this project and click <b>Next</b>.<image
+                        placement="break" href="images/madcap_screens/5.png" scale="60" align="left"
+                        id="image_hyx_vpf_vpb">
+                        <alt>project_TB_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <note id="note_dtf_nb4_wpb"> Like other CAT tools, Déjà Vu X3 also allows you to
+                    connect to the Machine Translation service. More information can be found in the
+                    appropriate CAT software documentation.</note>
+                <cmd>The next page optionally allows you to specify what Machine Translation
+                    provider you want to use for the project. Specify the appropriate data, or not,
+                    click <b>Next</b> and go to the next page. Select a client and a subject for
+                    your project or use the default ones.And click <b>Next</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Add source files to your project.<image placement="break"
+                        href="images/madcap_screens/8.png" scale="60" align="left"
+                        id="image_g4c_ypf_vpb">
+                        <alt>adding files_to_project_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Next</b> and your project will be created. A displayed wizard will
+                    show the progress of the import process.<image placement="break"
+                        href="images/madcap_screens/9.png" scale="60" align="left"
+                        id="image_gqh_1qf_vpb">
+                        <alt>progress_of_project_creating_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>When the process is finished, click <b>Close</b>. The main interface of Déjà Vu
+                    X3 is displayed, and then click the files and translate them.<image
+                        placement="break" href="images/madcap_screens/10.png" scale="50"
+                        align="left" id="image_p5n_cqf_vpb">
+                        <alt>Project_Explorer_pane_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>When the translation process is finished, the final step is to export the
+                    project, i.e., to generate the translated <b>.htm</b> files. Select destination
+                    folder and click <b>Export</b>. Then, it will validate all the translated
+                    sentences, checking for problems with tags. If Déjà Vu X3 finds a problem, it
+                    will prompt you to fix it. Fix the problem and click <b>OK</b>. Click
+                    <b>Yes</b>, if Déjà Vu X3 asks you to add spaces at the end of each segment
+                    (each sentence in the exported file will be separated by space, as they should
+                        be.)<image placement="break" href="images/madcap_screens/11.png" scale="50"
+                        align="left" id="image_rkx_2qf_vpb">
+                        <alt>exporting_files_DVX3</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>A subfolder will be created inside the export directory and named as the code
+                    for the specific locale of the target language. Open your source and target
+                    files and check them according to your established criteria.</cmd>
+                <info>
+                    <fig id="fig_yrh_h32_vpb">
+                        <title>Example source and target files</title>
+                        <image placement="break" href="images/madcap_screens/12.png" scale="50"
+                            align="left" id="image_kwn_hqf_vpb">
+                            <alt>source_and_target_files</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

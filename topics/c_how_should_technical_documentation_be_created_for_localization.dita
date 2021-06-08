@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_should_technical_documentation_be_created_for_localization">
+    <title>How should technical documentation be created for localization?</title>
+    <shortdesc> Learn what documentation should be to make it easy for localization.</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_scw_2x1_vpb">
+                <li>Product documentation should be created in such a way that it can be translated
+                    into other languages without involving additional effort and time, e.g., for
+                    reengineering.</li>
+                <li>Product documentation should be planned as early as possible, preferably as
+                    early as the product design stage.</li>
+                <li>Define the purpose and scope of the documentation and the end-user who will use
+                    the documentation.</li>
+                <li>Select the style guide, convention, as well as source and target formats.</li>
+                <li>Minimize fragmentation of translatable text. Features such as snippet, keyref,
+                    conref , etc. allow reuse of text. From the author's point of view, it is
+                    beneficial for the consistency of the complete documentation. However, the text
+                    fragmented into parts smaller than one sentence should not be intended for
+                    translation. The parts will be difficult to translate and localize well.</li>
+                <li>Provide information about non-translatable keys or just normalize content before
+                    translation. The non-translatable keys are simplifications to make the
+                    documentation easier to create, but they can be cumbersome to translate.
+                    Normalization means processing the text to make it easier to localize. Some of
+                    the keys that can be translated are replaced with plain text.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

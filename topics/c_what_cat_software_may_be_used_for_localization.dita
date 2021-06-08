@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_may_cat_software_be_used_for_localization">
+    <title>What CAT software may be used for localization?</title>
+    <shortdesc> Trados, memoQ and Déjà Vu X3 as tools for localization.</shortdesc>
+    <conbody>
+        <p>The use of CAT software depends, among other things, on the format of the localized
+            documentation. It can be <xref
+                href="c_what_are_the_best_formats_for_creating_documentation.dita">known the
+                best</xref> or <xref
+                href="C_what_other_formats_can_be_used_to_create_documentation.dita">other
+                formats</xref> for localization.</p>
+        <p>You can use any CAT tool as long as you have the compatible format.</p>
+        <p>There is a wide variety of CAT tools available on the market. Each CAT program offers
+            both essential functions (e.g., creation of translation memory (TM), concordance search
+            in TM, and more advanced functions (e.g., terminology management, alignment, optionally
+            feature of the Machine Translation service, and many other) or functions that
+            translation agencies use to manage very complex projects. The choice of CAT software
+            will depend on many factors.</p>
+        <p>See examples of the most popular and commercially available CAT tools. Detailed
+            information about each CAT software is available on the corresponding website.</p>
+        <p><fig id="fig_emx_ddb_vpb">
+                <image placement="break" href="images/trados-product-logo_rgb.png" width="3cm"
+                    align="left" id="image_fmx_ddb_vpb">
+                    <alt>Trados logo</alt>
+                </image>
+            </fig><xref href="https://www.trados.com/products/trados-studio/" format="html"
+                scope="external">Trados</xref></p>
+        <p>Probably <b>Trados</b> is the biggest of all the big players in the CAT tool market. It's
+            a complete translation software solution for translating, managing terminology, editing,
+            and running LQA.</p>
+        <p><fig id="fig_ett_hdb_vpb">
+                <image placement="break" href="images/memoQ_logo.png" width="3cm" align="left"
+                    id="image_ftt_hdb_vpb">
+                    <alt>memoQ logo</alt>
+                </image>
+            </fig><xref href="https://www.memoq.com/" format="html" scope="external"
+            >memoQ</xref></p>
+        <p><b>memoQ</b> is also major CAT software but not as well-known as Trados. It offers
+            practisely the same features and has some useful extras, such as the translation preview
+            pane to see the segment you are translating in context. memoQ can accept Trados and
+            other packages, meaning that translators can usually work together with agencies who use
+            other translation software.</p>
+        <p><fig id="fig_lcy_ldb_vpb">
+                <image placement="break" href="images/DV%20X3%20logo.jpg" width="3cm" align="left"
+                    id="image_mcy_ldb_vpb">
+                    <alt>Déjà Vu logo</alt>
+                </image>
+            </fig><xref href="https://atril.com/" format="html" scope="external">Déjà Vu
+            X3</xref></p>
+        <p><b>Déjà Vu</b> is another popular CAT tool that offers a complete host of terminology
+            management and translation memory features. It allows to handle a wide variety of file
+            formats, including Trados and memoQ.</p>
+    </conbody>
+</concept>

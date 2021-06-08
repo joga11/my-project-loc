@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_are_the_best_formats_for_creating_documentation">
+    <title>What are the best formats for creating documentation?</title>
+    <shortdesc> DITA, MadCap, Markdown as formats for creating documentation.</shortdesc>
+    <conbody>
+        <p><fig id="fig_r1k_pv1_vpb">
+                <title>DITA logo</title>
+                <image placement="break" href="images/dita-logo.png" width="3cm" align="left"
+                    id="image_s1k_pv1_vpb">
+                    <alt>DITA logo</alt>
+                </image>
+            </fig><b>DITA</b> (Darwin Information Typing Architecture)specification defines a set of
+            document types for authoring and organizing topic-oriented information and a set of
+            mechanisms for combining, extending, and constraining document types. It's an open
+            standard that is defined and maintained by the DITA Technical Committee. DITA provides
+            support for translation via the localization attribute group. Set element attributes to
+            indicate whether the content of the part should be translated or not.</p>
+        <p><fig id="fig_cfh_rv1_vpb">
+                <title>MadCap logo</title>
+                <image placement="break"
+                    href="images/png-transparent-madcap-software-computer-software-custom-software-software-development-others-leaf-grass-plant-stem.png"
+                    width="3cm" align="left" id="image_dfh_rv1_vpb">
+                    <alt>MadCap logo</alt>
+                </image>
+            </fig><b>MadCap</b> means the format used in MadCap Flare software. It uses
+            single-source publishing. The method allows content to be used more than once across
+            different media. Flare supports topic-based authoring and content management.
+            Topic-based authoring means the content is written in modular topics that can stand
+            alone and be mixed or reused as needed. Produce online help systems, eLearning modules,
+            knowledge bases, document portals, and various guides and manuals for use online or in
+            print. MadCap Flare provides many ways to reuse content, which saves time maintaining or
+            updating topics.</p>
+        <p><fig id="fig_exn_wv1_vpb">
+                <title>Markdown logo</title>
+                <image placement="break" href="images/images.png" width="3cm" align="left"
+                    id="image_fxn_wv1_vpb">
+                    <alt>Markdown logo</alt>
+                </image>
+            </fig><b>Markdown</b> is the tool for easy and quick creating and publishing
+            documentation. The tool allows you to write using an easy-to-read, easy-to-write plain
+            text format, then convert it, for example, to structurally valid XHTML or HTML. The
+            format is simple and readable without editing. It's easy to manage a large number of
+            documents and reuse content. Visual issues are separated from the content. The format
+            allows you generate other input and output formats from .md file. Documentation can be
+            expanded to any size, and the file can be modified, or content can be extracted from
+            it.</p>
+    </conbody>
+</concept>

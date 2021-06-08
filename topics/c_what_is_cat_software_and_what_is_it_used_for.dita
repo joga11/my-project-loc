@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_cat_software_and_what_is_it_used_for">
+    <title>What is CAT software and what is it used for?</title>
+    <shortdesc> Learn about CAT sofware.</shortdesc>
+    <conbody>
+        <p>Computer-aided translation (CAT) means the use of software to assist a human translator
+            in the translation process. A human creates the translation, and software only
+            facilitates certain aspects of the process.</p>
+        <p>CAT does not mean machine translation (MT), where a computer creates the translation.</p>
+        <p>CAT software is an excellent tool for translating and localizing technical documentation.
+            They also make it easy to manage terminology and content simultaneously in many
+            different languages.</p>
+        <p>CAT programs typically are the tools that specifically facilitate the actual translation
+            process. Most CAT tools provide:</p>
+        <ul id="ul_ull_k1b_vpb">
+            <li>The ability to translate a variety of source file formats in a single editing
+                environment,</li>
+            <li>Translation memory, and</li>
+            <li>Integration of various utilities or processes that increase productivity and
+                consistency in translation.</li>
+        </ul>
+    </conbody>
+</concept>

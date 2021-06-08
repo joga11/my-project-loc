@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_internationalization_and_how_is_it_different_from_localization">
+    <title>What is internationalization and how is it different from localization?</title>
+    <shortdesc> Differences between internationalization and localization.</shortdesc>
+    <conbody>
+        <p>Internationalization starts at the conceptual stage for products and services delivered
+            globally.</p>
+        <p>According to <xref
+                href="https://en.wikipedia.org/wiki/Internationalization_and_localization"
+                format="html" scope="external">Wikipedia</xref>, internationalization is the process
+            of designing the content to be adapted to various languages and regions without
+            engineering changes. Localization is the process of adapting the internationalized
+            content for a specific region or language by translating text and adding locale-specific
+            components. Localization can be potentially performed multiple times for different
+            locales. It uses the infrastructure provided by internationalization, which is ideally
+            performed only once before localization or as an integral part of ongoing
+            development.</p>
+        <fig id="fig_ovm_cgj_vpb">
+            <title>Internationalization and localization process, source: Wikipedia</title>
+            <image placement="break" href="images/Globalisationchart.jpg" scale="100" align="left"
+                id="image_pvm_cgj_vpb">
+                <alt>Internationalization and localization process</alt>
+            </image>
+        </fig>
+    </conbody>
+    <related-links>
+        <link href="https://en.wikipedia.org/wiki/Internationalization_and_localization"
+            format="html" scope="external"/>
+    </related-links>
+</concept>

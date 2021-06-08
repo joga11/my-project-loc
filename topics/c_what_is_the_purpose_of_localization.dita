@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_the_purpose_of_localization">
+    <title>What is the purpose of localization?</title>
+    <shortdesc> Explaining what localization is for.</shortdesc>
+    <conbody>
+        <p>Localization aims to give the product or service the look and feel of having been created
+            specifically for the target audience, no matter their language, cultural preferences, or
+            location. So, localization gives something the look and feel expected by the target
+            audience. Thanks to this, the content is more appealing, which makes the audience more
+            likely to buy. Consumers are more likely to purchase if the corresponding product
+            information is in their native language. Customers prefer the content created in their
+            native language, especially if their understanding of the content in the source language
+            is low or non-existent.</p>
+    </conbody>
+</concept>

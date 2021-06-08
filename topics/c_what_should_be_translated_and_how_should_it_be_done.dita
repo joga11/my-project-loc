@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_should_be_translated_and_how_should_it_be_done">
+    <title>What should be translated, and how should it be done?</title>
+    <shortdesc> Decide what and how should be translantable.</shortdesc>
+    <conbody>
+        <p>Define the text you want to be translated: trademarks, product names, code samples, legal
+            fragments, etc.</p>
+        <p>Share glossaries with translators: it's the easiest way to provide info what is "Do Not
+            Translate". Also, it's the easiest way to get consistent terminology in translation.</p>
+    </conbody>
+</concept>

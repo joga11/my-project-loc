@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_translation_and_how_is_it_different_from_localization">
+    <title>What is translation and how is it different from localization?</title>
+    <shortdesc> Differences between translation and localization</shortdesc>
+    <conbody>
+        <p>Translation is often defined as the literal word-for-word transformation of a source text
+            into the target language. However, this is somewhat of a simplification because
+            translation aims to maintain the original meaning through vocabulary choices and
+            idiomatic choices. A translator converts the content into the target language while
+            respecting syntax and grammar rules. Typically, translation is the most time-consuming
+            component of language localization.</p>
+        <p>In common usage, the terms "translation" and "localization" are incorrectly interchanged
+            or misused regarding the content's translation. Indeed, translation is a part of
+            localization, but so much more is required for content to become authentic and locally
+            accepted. When localizing the content, you should pay even more attention to the target
+            market's cultural nuances and other specifics.</p>
+        <fig id="fig_xxw_h3j_vpb">
+            <title>Differences between translation and localization, source:
+                quicksilvertranslate.com</title>
+            <image placement="break"
+                href="images/language-localization%20source%20quicksilvertranslate-com.jpeg"
+                scale="70" align="left" id="image_yxw_h3j_vpb">
+                <alt>Differences between translation and localization</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

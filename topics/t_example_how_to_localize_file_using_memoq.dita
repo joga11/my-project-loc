@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_example_how_to_localize_file_using_memoq">
+    <title>Example: how to localize file using memoQ?</title>
+    <shortdesc> Example: documentation files prepared using <b>Markdown (.md)</b> and localized
+        using <b>memoQ</b></shortdesc>
+    <taskbody>
+        <context>
+            <p>To localize the documentation files, create a project in memoQ</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open memoQ.</cmd>
+            </step>
+            <step>
+                <cmd>On the memoQ start screen, choose <b>New Project</b> and <b>New Project From
+                        Template.</b><image placement="break" href="images/memoQ_screens/1.png"
+                        scale="70" align="left" id="image_nk1_t2f_vpb">
+                        <alt>new_project_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>In displayed dialog choose <b>From local computer</b>, click <b>Add
+                        documents</b> and <b>Next.</b><image placement="break"
+                        href="images/memoQ_screens/3.png" scale="70" align="left"
+                        id="image_i1f_sff_vpb">
+                        <alt>add_source_files_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>On the next page, choose a template, language pair, and project details. Click
+                        <b>Finnish</b>.<image placement="break" href="images/memoQ_screens/4.png"
+                        scale="70" align="left" id="image_tgh_hgf_vpb">
+                        <alt>project_details_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>When importing source files, errors can occur. Click <b>Change filter &amp;
+                        configuration</b> in the displaed <b>Document import options</b>
+                        window.<image placement="break" href="images/memoQ_screens/5.png" scale="50"
+                        align="left" id="image_lzh_xgf_vpb">
+                        <alt>change filter_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>From displayed dialog choose <b>Plain text filter</b>.<image placement="break"
+                        href="images/memoQ_screens/6.png" scale="60" align="left"
+                        id="image_dbg_3hf_vpb">
+                        <alt>plain_text_filter_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <note id="note_hfs_zvn_wpb"> Some formats (DITA, HTM) are fully supported by CAT
+                    tools, while others (Markdown) are simply loaded as text. In the case of a more
+                    advanced Markdown, it is beneficial to work on creating a filter. More
+                    information can be found in the appropriate CAT software documentation.</note>
+                <cmd>In the following dialog, <b>Plain text filter</b> and <b>Unicode (UTF-8)</b>
+                    should be selected. Click <b>OK</b>.<image placement="break"
+                        href="images/memoQ_screens/7.png" scale="60" align="left"
+                        id="image_fdb_23f_vpb">
+                        <alt>plain_text_filter_utf8_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>The <b>Document import options</b> window appears again, and click
+                        <b>OK</b>.<image placement="break" href="images/memoQ_screens/8.png"
+                        scale="50" align="left" id="image_xrk_x3f_vpb">
+                        <alt>document_import_options_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Then memoQ will prepare the project and display a window with the project
+                    files. Select a file, open it and translate.<image placement="break"
+                        href="images/memoQ_screens/9.png" scale="70" align="left"
+                        id="image_xvl_mlf_vpb">
+                        <alt>project_files_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Specify translation memory for use.<image placement="break"
+                        href="images/memoQ_screens/10.png" scale="60" align="left"
+                        id="image_llt_vlf_vpb">
+                        <alt>TM_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Translate project files, consulting source files as necessary.<image
+                        placement="break" href="images/memoQ_screens/11.png" scale="60" align="left"
+                        id="image_a5q_1nf_vpb">
+                        <alt>translated_file_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>When the file is translated, select it and click the right mouse button. Choose
+                        <b>Export</b> and <b>Export (Stored Path)</b>.<image placement="break"
+                        href="images/memoQ_screens/12.png" scale="70" align="left"
+                        id="image_s5j_14f_vpb">
+                        <alt>export_file_memoQ</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>The exported file is displayed in the source format.</cmd>
+                <info>
+                    <fig id="fig_fmk_rxn_wpb">
+                        <title>Source and target files .md when localized using memoQ</title>
+                        <image placement="break" href="images/memoQ_screens/EN-PL.png" scale="50"
+                            align="left" id="image_gmk_rxn_wpb">
+                            <alt>Source and target files from memoQ</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_formats_should_not_be_used_for_documentation">
+    <title>What formats should NOT be used for documentation?</title>
+    <shortdesc> PDF should not be used for creating documentation.</shortdesc>
+    <conbody>
+        <p><b>PDF</b> is suitable for providing documentation (including localized documentation),
+            but it is very unsuitable for creating documentation files intended for localization.
+            For localization purposes, it is always better to take the source files from which the
+            pdf file was created.</p>
+        <p>PDF file looks the same everywhere and can be read everywhere. Once generated, it's
+            stable for large documents. However, it's a closed document, so you cannot easily modify
+            it or download content from it. Also, It's not possible to generate other input or
+            output formats from .pdf file.</p>
+    </conbody>
+</concept>

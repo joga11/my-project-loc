@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_example_how_to_localize_file_using_trados">
+    <title>Example: how to localize file using Trados?</title>
+    <shortdesc> Example: documentation files prepared using <b>Oxygene XML Editor (.dita)</b> and
+        localized using <b>TRADOS</b></shortdesc>
+    <taskbody>
+        <context>
+            <p>To localize the documentatation files, create a project in Trados.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Trados.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the <b>Projects View</b> pane and select <b>New Project</b> on the upper
+                    ribbon. In the displayed dialog, specify the data of your new project and add
+                    source files. Click <b>Next</b>.<image placement="break"
+                        href="images/dita_screens/1.png" scale="60" align="left"
+                        id="image_sbz_1x3_vpb">
+                        <alt>add_project_file_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Specify general settings of your new project and click <b>Next</b>.<image
+                        placement="break" href="images/dita_screens/2.png" scale="60" align="left"
+                        id="image_ix2_rx3_vpb">
+                        <alt>general_project_settings_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Select translation memory TM or create a new one. Click <b>Next</b>.<image
+                        placement="break" href="images/dita_screens/3.png" scale="60" align="left"
+                        id="image_dsc_yx3_vpb">
+                        <alt>project_TM_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Select term base TB or create a new one. Click <b>Next</b>.<image
+                        placement="break" href="images/dita_screens/4.png" scale="60" align="left"
+                        id="image_kyt_gy3_vpb">
+                        <alt>project_TB_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Specify batch tasks of your new project and click <b>Next</b>.<image
+                        placement="break" href="images/dita_screens/5.png" scale="60" align="left"
+                        id="image_jw2_ry3_vpb">
+                        <alt>batch_tasks_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Check the summary and click <b>Finish</b>.<image placement="break"
+                        href="images/dita_screens/6.png" scale="60" align="left"
+                        id="image_y1h_dz3_vpb">
+                        <alt>project_summary_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Trados will prepare your new project. Click <b>Close</b>, go to the new
+                    project, click file or files and translate.<image placement="break"
+                        href="images/dita_screens/7.png" scale="60" align="left"
+                        id="image_etw_pz3_vpb">
+                        <alt>project_finish_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Translate project files, consulting source files as necessary. To start
+                    translating, click in the first segment in the target column and type in your
+                    translation. Click <uicontrol>Ctrl</uicontrol>+<uicontrol>Enter</uicontrol>.
+                    This will confirm the first segment, send it to the TM and move the cursor to
+                    the next segment. Translate the other segments.<image placement="break"
+                        href="images/dita_screens/8.png" scale="60" align="left"
+                        id="image_xm1_pdj_vpb">
+                        <alt>translating_files_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>When file is translated, go to <b>File</b> tab in upper pane and select <b>Save
+                        Target As</b>. Specify, where you want your destination file to be
+                        saved.<image placement="break" href="images/dita_screens/9.png" scale="60"
+                        align="left" id="image_q1h_ydj_vpb">
+                        <alt>save_target_file_Trados</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>The exported file is saved in the source format.<image placement="break"
+                        href="images/dita_screens/11.png" scale="40" align="left"
+                        id="image_ogj_5fj_vpb">
+                        <alt>source_and_target_file_Trados</alt>
+                    </image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

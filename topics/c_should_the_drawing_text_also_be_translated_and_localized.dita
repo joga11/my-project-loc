@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_should_the_drawing_text_also_be_translated_and_localized">
+    <title>Should the drawing text also be translated and localized?</title>
+    <shortdesc> Learn how to translate and localize the drawing text.</shortdesc>
+    <conbody>
+        <p>Yes, the text on the drawings also should be translated and localized.</p>
+        <p>Place the text on a separate layer and avoid text fragmentation.</p>
+        <p>If possible, use formats or exports that are compatible with CAT solutions (e.g.,
+            SVG).</p>
+        <p>If User Interface is also localized, handle screen captures.</p>
+    </conbody>
+</concept>

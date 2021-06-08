@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_simplified_technical_english_ste">
+    <title>What is Simplified Technical English (STE)?</title>
+    <shortdesc> Learn about Simplified Technical English (STE).</shortdesc>
+    <conbody>
+        <p>English is the international language of many industries, and the language is the most
+            used for writing technical documentation. However, it often isn't the native language of
+            the readers (or even of the authors) of such documentation.</p>
+        <p>Simplified Technical English (STE) is a controlled language developed in the early 1980s
+            for commercial aviation to help second-language English speakers understand technical
+            manuals written in English. Many maintenance manuals are written in STEbecause STE makes
+            technical texts easy to understand by all readers. Also, by those who have limited
+            knowledge of English and are confused by complex sentence structures, as well as by the
+            number of meanings and synonyms of English words. STE principles improve text
+            comprehensibility in any industry, and comprehensibility helps with localization.</p>
+    </conbody>
+</concept>

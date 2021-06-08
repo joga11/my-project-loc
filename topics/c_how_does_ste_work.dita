@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_does_ste_work">
+    <title>How does STE work?</title>
+    <shortdesc> About STE concept</shortdesc>
+    <conbody>
+        <p>The STE Specification provides a set of writing rules and a dictionary of controlled
+            vocabulary. The writing rules cover aspects of grammar and style, and the dictionary
+            specifies the general words that can be used. The words were chosen for their simplicity
+            and ease of recognition. In general, use <b>one word for one meaning</b> and <b>one part
+                of speech for one word</b>. Writers can use the approved words in the dictionary as
+            a core vocabulary. But they can also use terms that are usual in their companies or
+            industries and applicable to their projects and products.</p>
+    </conbody>
+</concept>

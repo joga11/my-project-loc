@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_should_be_the_formats_for_creating_documentation">
+    <title>What should be the formats for creating documentation?</title>
+    <shortdesc> Properties of formats for creating documentation.</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_mzq_np1_vpb">
+                <li>Documentation formats should allow for easy localization.</li>
+                <li>Documentation text should be easily available for editing or extracting without
+                    any additional effort (e.g., reengineering<i>)</i>.</li>
+                <li>The text should be available for reuse.</li>
+                <li>And last but not least: The documentation formats should be translatable.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>
