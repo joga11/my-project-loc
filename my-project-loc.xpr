@@ -33,6 +33,29 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>topics/t_example_how_to_localize_file_using_memoq.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF2</String>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>m_localization_DITA_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
