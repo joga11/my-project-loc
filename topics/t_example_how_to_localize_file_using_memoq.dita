@@ -54,8 +54,8 @@
             </step>
             <step>
                 <note id="note_hfs_zvn_wpb"> Some formats (DITA, HTM) are fully supported by CAT
-                    tools, while others (Markdown) are simply loaded as text. In the case of a more
-                    advanced Markdown, it is beneficial to work on creating a filter. More
+                    tools, while other ones (Markdown) are simply loaded as text. In the case of a
+                    more advanced Markdown, it is beneficial to work on creating a filter. More
                     information can be found in the appropriate CAT software documentation.</note>
                 <cmd>In the following dialog, <uicontrol>Plain text filter</uicontrol> and
                         <uicontrol>Unicode (UTF-8)</uicontrol> should be selected. Click
@@ -89,6 +89,9 @@
                     </image></cmd>
             </step>
             <step>
+                <note id="note_dtf_nb4_wpb"> Like other CAT tools, memoQ also allows you to connect
+                    to the Machine Translation service. More information can be found in the
+                    appropriate CAT software documentation.</note>
                 <cmd>Translate project files, consulting source files as necessary. To start
                     translating, click in the first segment in the target column and type in your
                     translation. Click <uicontrol>Ctrl</uicontrol>+<uicontrol>Enter</uicontrol>.

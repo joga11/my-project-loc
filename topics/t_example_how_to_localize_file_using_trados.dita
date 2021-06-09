@@ -70,6 +70,9 @@
                     </image></cmd>
             </step>
             <step>
+                <note id="note_dtf_nb4_wpb"> Like other CAT tools, Trados also allows you to connect
+                    to the Machine Translation service. More information can be found in the
+                    appropriate CAT software documentation.</note>
                 <cmd>Translate project files, consulting source files as necessary. To start
                     translating, click in the first segment in the target column and type in your
                     translation. Click <uicontrol>Ctrl</uicontrol>+<uicontrol>Enter</uicontrol>.
