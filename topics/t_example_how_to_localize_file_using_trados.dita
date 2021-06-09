@@ -13,52 +13,57 @@
                 <cmd>Open Trados.</cmd>
             </step>
             <step>
-                <cmd>Go to the <b>Projects View</b> pane and select <b>New Project</b> on the upper
-                    ribbon. In the displayed dialog, specify the data of your new project and add
-                    source files. Click <b>Next</b>.<image placement="break"
+                <cmd>Go to the <uicontrol>Projects View</uicontrol> pane and select <uicontrol>New
+                        Project</uicontrol> on the upper ribbon. In the displayed dialog, specify
+                    the data of your new project and add source files. Click
+                        <uicontrol>Next</uicontrol>.<image placement="break"
                         href="images/dita_screens/1.png" scale="60" align="left"
                         id="image_sbz_1x3_vpb">
                         <alt>add_project_file_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Specify general settings of your new project and click <b>Next</b>.<image
-                        placement="break" href="images/dita_screens/2.png" scale="60" align="left"
+                <cmd>Specify general settings of your new project and click
+                        <uicontrol>Next</uicontrol>.<image placement="break"
+                        href="images/dita_screens/2.png" scale="60" align="left"
                         id="image_ix2_rx3_vpb">
                         <alt>general_project_settings_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Select translation memory TM or create a new one. Click <b>Next</b>.<image
-                        placement="break" href="images/dita_screens/3.png" scale="60" align="left"
+                <cmd>Select translation memory TM or create a new one. Click
+                        <uicontrol>Next</uicontrol>.<image placement="break"
+                        href="images/dita_screens/3.png" scale="60" align="left"
                         id="image_dsc_yx3_vpb">
                         <alt>project_TM_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Select term base TB or create a new one. Click <b>Next</b>.<image
-                        placement="break" href="images/dita_screens/4.png" scale="60" align="left"
+                <cmd>Select term base TB or create a new one. Click
+                        <uicontrol>Next</uicontrol>.<image placement="break"
+                        href="images/dita_screens/4.png" scale="60" align="left"
                         id="image_kyt_gy3_vpb">
                         <alt>project_TB_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Specify batch tasks of your new project and click <b>Next</b>.<image
-                        placement="break" href="images/dita_screens/5.png" scale="60" align="left"
+                <cmd>Specify batch tasks of your new project and click
+                        <uicontrol>Next</uicontrol>.<image placement="break"
+                        href="images/dita_screens/5.png" scale="60" align="left"
                         id="image_jw2_ry3_vpb">
                         <alt>batch_tasks_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Check the summary and click <b>Finish</b>.<image placement="break"
-                        href="images/dita_screens/6.png" scale="60" align="left"
+                <cmd>Check the summary and click <uicontrol>Finish</uicontrol>.<image
+                        placement="break" href="images/dita_screens/6.png" scale="60" align="left"
                         id="image_y1h_dz3_vpb">
                         <alt>project_summary_Trados</alt>
                     </image></cmd>
             </step>
             <step>
-                <cmd>Trados will prepare your new project. Click <b>Close</b>, go to the new
-                    project, click file or files and translate.<image placement="break"
+                <cmd>Trados will prepare your new project. Click <uicontrol>Close</uicontrol>, go to
+                    the new project, click file or files and translate.<image placement="break"
                         href="images/dita_screens/7.png" scale="60" align="left"
                         id="image_etw_pz3_vpb">
                         <alt>project_finish_Trados</alt>
@@ -76,10 +81,11 @@
                     </image></cmd>
             </step>
             <step>
-                <cmd>When file is translated, go to <b>File</b> tab in upper pane and select <b>Save
-                        Target As</b>. Specify, where you want your destination file to be
-                        saved.<image placement="break" href="images/dita_screens/9.png" scale="60"
-                        align="left" id="image_q1h_ydj_vpb">
+                <cmd>When file is translated, go to <uicontrol>File</uicontrol> tab in upper pane
+                    and select <uicontrol>Save Target As</uicontrol>. Specify, where you want your
+                    destination file to be saved.<image placement="break"
+                        href="images/dita_screens/9.png" scale="60" align="left"
+                        id="image_q1h_ydj_vpb">
                         <alt>save_target_file_Trados</alt>
                     </image></cmd>
             </step>
